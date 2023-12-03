@@ -26,3 +26,8 @@ npm i -D @types/react-dom
 npm i -D eslint eslint-config-react-app
 
 npm i -D @types/node
+
+create server
+npm init -y
+npm i express body-parser cors dotenv helmet morgan mongoose mongoose-currency
+npm i -D nodemon
